@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:tictic/constants/sizes.dart';
 import 'package:tictic/screens/welcome/widgets/logo_welcome.dart';
 
 class Welcome extends StatelessWidget {
