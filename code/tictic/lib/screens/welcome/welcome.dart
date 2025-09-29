@@ -4,7 +4,7 @@ import 'package:tictic/constants/sizes.dart';
 import 'package:tictic/screens/welcome/widgets/logo_welcome.dart';
 
 class Welcome extends StatelessWidget {
-  const Welcome({super.key});
+  Welcome({super.key});
 
   @override
   Widget build(BuildContext context) {
