@@ -1,15 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:tictic/constants/colors.dart';
 import 'package:tictic/constants/sizes.dart';
-import 'package:tictic/screens/welcome/widgets/bullet.dart';
-import 'package:tictic/screens/welcome/widgets/bullets.dart';
 import 'package:tictic/screens/welcome/widgets/logo_welcome.dart';
-import 'package:tictic/screens/welcome/widgets/text_slider.dart';
 import 'package:tictic/screens/welcome/widgets/text_slider_with_bullets.dart';
-
-import '../../constants/durations.dart';
-import '../../constants/fonts.dart';
 
 class Welcome extends StatefulWidget {
   const Welcome({super.key});

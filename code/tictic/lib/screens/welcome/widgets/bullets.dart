@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../../constants/colors.dart';
-import '../../../constants/durations.dart' show kAnimationDurationShort;
+import '../../../constants/durations.dart';
 import '../../../constants/sizes.dart';
 import 'bullet.dart';
 
